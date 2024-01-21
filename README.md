@@ -1,5 +1,5 @@
 # CPP_CellularAutomata_pt2_Synapses
-C++ OpenGL Probabilistic Hexagonal-Grid Cellular Automata Creating Snaking Neural Network.
+C++ OpenGL Probabilistic Hexagonal-Grid Cellular Automata Creating Snaking "Neural Network".
 Another File Dump Extension Of My Cellular Automata This One Was Very Interesting To Me And Can Change Amount Of Origin Stem Cells In Loop To Only Show One Or Many Trying To Fight Against Eachother For Space. Know Code Has Some Unoptimized Points With A Lot Being In Main But Don't See Need For Optimization Just Yet As Space Complexity Isn't A Issue And Runtime Is UpHeld Because Of Some Of These Local In Main Variables.
 Taught me my first sense of probabilistic calculations in these sorts of systems and how we can conceptually visualize a sort of relationship between cells for given patterns.
 
