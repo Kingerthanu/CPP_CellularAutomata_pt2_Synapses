@@ -12,6 +12,16 @@ Taught me my first sense of probabilistic calculations in these sorts of systems
 
 **The Breakdown:**
 
+  This Program Works In C++ To Call Upon OpenGL Through A GLSL Window.
+
+  The Window Is Visually Layed Out With a Hexagonal-Grid, Where Each The x & y Axis Are Set To A Predefined Number Of Hexagons. Each Hexagon Is Wrapped In A Object Which Represents Themselves In A 2D-Array With A Class Called Cell.
+
+  Each Cell Is Delegated Its Inherit Capabilites In The Array, As In Ability To Draw Themselves, Override Their Color Or Buffer Data, React/Think To Their Neighboring Cells (For Game Of Life) And Die/Revive Themselves Accordingly. 
+
+  In This Iteration Of Our Program, Our React/Think Function Has The Ruleset Of:
+    - If Dead, if there is 2 alive neighbors we have a 50% chance of turning on (becoming alive).
+    - Else If Dead, Stay Dead :/
+    - If Alive, if we have 2 alive neighbors we die.
 
 
 ----------------------------------------------
