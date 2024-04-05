@@ -70,6 +70,7 @@ public:
 			rand();
 			rand();
 			rand();
+   
 		*/
 
 		if (!this->state) {
