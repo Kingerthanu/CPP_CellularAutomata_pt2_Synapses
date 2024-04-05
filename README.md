@@ -19,7 +19,7 @@ Taught me my first sense of probabilistic calculations in these sorts of systems
   Each Cell Is Delegated Its Inherit Capabilites In The Array, As In Ability To Draw Themselves, Override Their Color Or Buffer Data, React/Think To Their Neighboring Cells (For Game Of Life) And Die/Revive Themselves Accordingly. 
 
   In This Iteration Of Our Program, Our React/Think Function Has The Ruleset Of:<br>
-    "&emsp"- If Dead, if there is 2 alive neighbors we have a 50% chance of turning on (becoming alive).
+    &emsp;- If Dead, if there is 2 alive neighbors we have a 50% chance of turning on (becoming alive).
     - Else If Dead, Stay Dead :/
     - If Alive, if we have 2 alive neighbors we die.
     - Else If Alive, Stay Alive :D
