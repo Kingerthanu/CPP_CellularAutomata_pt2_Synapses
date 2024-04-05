@@ -28,6 +28,10 @@ Taught me my first sense of probabilistic calculations in these sorts of systems
     
   &emsp;- Else If Alive, Stay Alive :D
 
+  This Program Starts By Pinging On Some Cells And Their Neighbors To Start Behaivor. Other Than That Theres No External Input Needed Or Used By The User. 
+
+  Because Of Our Invariants For Reactions, When Inputting Multiple Neural Paths With Our Initialization We See That The Paths Will Never Connect With Another Stem Network. This Makes Some Cool Patterns As It Tries Moving And Filling In Space While Accounting For Its Neighboring Networks.
+
 
 ----------------------------------------------
 
