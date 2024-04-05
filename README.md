@@ -6,5 +6,16 @@ C++ OpenGL Probabilistic Hexagonal-Grid Cellular Automata Creating Snaking "Neur
 Another File Dump Extension Of My Cellular Automata This One Was Very Interesting To Me And Can Change Amount Of Origin Stem Cells In Loop To Only Show One Or Many Trying To Fight Against Eachother For Space. The Code Has Some Unoptimized Points With A Lot Being In Main But Don't See Need For Optimization Just Yet As Space Complexity Isn't A Issue And Runtime Is UpHeld Because Of Some Of These Local In Main Variables.
 Taught me my first sense of probabilistic calculations in these sorts of systems and how we can conceptually visualize a sort of relationship between cells for given patterns.
 
+
+----------------------------------------------
+<img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49">
+
+**The Breakdown:**
+
+
+
+----------------------------------------------
+
+
 ![brainFight-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/e2e4d255-8cd1-456a-8eee-f19c576e7813)
 ![singleBrain-ezgif com-video-to-gif-converter (1)](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b2e1f813-8a35-42ce-b934-d3fc01324760)
