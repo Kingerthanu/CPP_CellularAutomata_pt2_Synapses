@@ -61,10 +61,16 @@ public:
 		}
 
 		bool prevState = this->state;
-		rand();
-		rand();
-		rand();
-		rand();
+
+		/*
+
+		  Utilized For Changing Randomness A little Lazily:
+  
+			rand();
+			rand();
+			rand();
+			rand();
+		*/
 
 		if (!this->state) {
 			// Activation rule for inactive cells
