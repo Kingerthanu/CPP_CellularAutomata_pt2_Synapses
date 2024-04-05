@@ -20,8 +20,11 @@ Taught me my first sense of probabilistic calculations in these sorts of systems
 
   In This Iteration Of Our Program, Our React/Think Function Has The Ruleset Of:<br>
     &emsp;- If Dead, if there is 2 alive neighbors we have a 50% chance of turning on (becoming alive).
+    
     &emsp;- Else If Dead, Stay Dead :/
+    
     &emsp;- If Alive, if we have 2 alive neighbors we die.
+    
     &emsp;- Else If Alive, Stay Alive :D
 
 
