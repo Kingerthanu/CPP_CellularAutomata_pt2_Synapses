@@ -8,7 +8,8 @@ Taught me my first sense of probabilistic calculations in these sorts of systems
 
 
 ----------------------------------------------
-<img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b8f1331f-644d-4b71-826e-2f24b4439292" alt="Cornstarch <3" width="55" height="49">
+
 
 **The Breakdown:**
 
