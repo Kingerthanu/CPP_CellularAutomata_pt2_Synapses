@@ -37,6 +37,13 @@ Taught me my first sense of probabilistic calculations in these sorts of systems
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/f30eec23-64a1-4827-9c93-786ca82d76c2" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/f30eec23-64a1-4827-9c93-786ca82d76c2" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/f30eec23-64a1-4827-9c93-786ca82d76c2" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/f30eec23-64a1-4827-9c93-786ca82d76c2" alt="Cornstarch <3" width="55" height="49">
+
+**Features:**
 
 ![brainFight-ezgif com-optimize](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/e2e4d255-8cd1-456a-8eee-f19c576e7813)
 ![singleBrain-ezgif com-video-to-gif-converter (1)](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/b2e1f813-8a35-42ce-b934-d3fc01324760)
+
+
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/e997fbf2-5cc7-4b43-b607-7009d452d03d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/e997fbf2-5cc7-4b43-b607-7009d452d03d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/e997fbf2-5cc7-4b43-b607-7009d452d03d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/e997fbf2-5cc7-4b43-b607-7009d452d03d" alt="Cornstarch <3" width="55" height="49">
+
