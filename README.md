@@ -33,6 +33,7 @@ Taught me my first sense of probabilistic calculations in these sorts of systems
 
   Because Of Our Invariants For Reactions, When Inputting Multiple Neural Paths With Our Initialization We See That The Paths Will Never Connect With Another Stem Network. This Makes Some Cool Patterns As It Tries Moving And Filling In Space While Accounting For Its Neighboring Networks.
 
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/56e16e1a-56a1-40db-8851-c7edff2ac570" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/56e16e1a-56a1-40db-8851-c7edff2ac570" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/56e16e1a-56a1-40db-8851-c7edff2ac570" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_Synapses/assets/76754592/56e16e1a-56a1-40db-8851-c7edff2ac570" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------
 
